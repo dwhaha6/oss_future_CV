@@ -11,7 +11,7 @@
 
 - 이름 : 강동욱
 - 주민번호 : 030822-3xxxxxx
-- 주소 : 경기 화성시 동탄반석로16 xxx동 xxxx호
+- 주소 : 경기 화성시 동탄반석로16 xxx동 xxx호
 - 휴대전화 : 010-5122-4783
 - Email. dwhaha6@gmail.com
 - [GitHub](https://github.com/dwhaha6)
