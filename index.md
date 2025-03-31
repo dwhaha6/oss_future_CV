@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 미래 이력서
 
 **강동욱**(*Database Administrator*)  
