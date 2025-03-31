@@ -74,7 +74,7 @@
         - 각종 지표 정의 및 트래킹 자동화
     
 
-3. **[야놀자](https://www.yanoljagroup.com/)**  R&D- DB Engineering팀 | 인턴 (2027.04~2027.09)  
+2. **[야놀자](https://www.yanoljagroup.com/)**  R&D- DB Engineering팀 | 인턴 (2027.04~2027.09)  
 ![야놀자 사진](이미지/야놀자.png)
     - 다음과 같은 업무를 경험하고 학습했습니다.
 
@@ -83,7 +83,7 @@
         - MySQL Engine을 깊게 분석하고 Trouble shooting을 진행
         - Cloud AWS Aurora를 운영 및 기술지원
 
-4. **[우리에프아이에스](https://woorifis.careerlink.kr/)**  R&D- DB Engineering팀 | 인턴 (2027.11~2028.02)  
+3. **[우리에프아이에스](https://woorifis.careerlink.kr/)**  R&D- DB Engineering팀 | 인턴 (2027.11~2028.02)  
 ![우리에프아이에스 사진](이미지/우리에프아이에스.png)
     - 다음과 같은 업무를 경험하고 학습했습니다.
 
@@ -120,7 +120,7 @@
     - Java & Spring Boot
     - Python & Django
   
---------------------------------------------------------
+
 ### ***지역별 질병 발생 패턴 분석- CDM(Baseline DB활용 경진대회)***
 
 > CDM 데이터를 활용해 특정 지역에서 발생하는 주요 질병의 패턴을 분석하는 시스템을 만들었습니다. 지역사회 건강 수준 향상 및 공공 보건 정책을 지원한다는 목적을 가진 프로젝트입니다.
